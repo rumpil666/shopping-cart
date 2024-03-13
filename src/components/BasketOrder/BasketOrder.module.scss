@@ -1,0 +1,11 @@
+.basketOrder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  background-color: #fff;
+  flex: 25%;
+  border-radius: 20px;
+  padding: 10px 0;
+}
